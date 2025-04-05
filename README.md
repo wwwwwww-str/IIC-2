@@ -1,2 +1,1 @@
-# IIC-2
-Lab.robota #2
+Lab 2 Integrations
